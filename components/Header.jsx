@@ -63,7 +63,7 @@ function Header() {
               passionné. <br />
               C&apos;est comme si j&apos;avais été attiré par les écrans et les
               lignes de code dès mon plus jeune âge. <br />
-              suis constamment à la <br />
+              Je suis constamment à la <br />
               recherche de nouvelles connaissances et de nouvelles compétences
               dans ce domaine en perpétuelle évolution.
               <br />
