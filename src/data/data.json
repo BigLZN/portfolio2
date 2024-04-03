@@ -1,0 +1,27 @@
+{
+  "informations": {
+    "nom": "Quentin THUILLIER",
+    "age": 19,
+    "description": "Salut, je suis Quentin THUILLIER, j'ai 19 ans et depuis que je suis tout petit, l'informatique m'a toujours passionné...",
+    "passions": ["informatique", "programmation", "technologie"]
+  },
+  "projets": [
+    {
+      "titre": "Projet 1",
+      "description": "description"
+    },
+    {
+      "titre": "Projet 2",
+      "description": "description"
+    },
+    {
+      "titre": "Projet 3",
+      "description": "description"
+    }
+  ],
+  "contacts": {
+    "email": "lznpro51@gmail.com",
+    "telephone": "+33 06 35 90 99 13",
+    "adresse": "11 rue saint vincent, 51220, Hermonville"
+  }
+}
