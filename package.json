@@ -2,12 +2,14 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://biglzn.github.io/Solo-rush-2/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
-    "build": "vite build",
+    "build": "gh-pages -d build --dist=build",
+    "serve": "vite preview",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
