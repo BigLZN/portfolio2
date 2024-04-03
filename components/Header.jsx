@@ -48,7 +48,7 @@ function Header() {
       <main>
         <div className="topall">
           <img
-            src="iMG/linkdin.jpg"
+            src="iMG/linkdin.png"
             alt="imgnav"
             className="topimg"
             onClick={handleImgClick}
